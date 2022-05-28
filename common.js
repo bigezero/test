@@ -13,7 +13,7 @@ export default {
   ],
   // 有无
   hasState: [
-    {
+    {asd 
       id: '1',
       value: '有'
     },

@@ -14,7 +14,7 @@ export default {
   {
     id: '3',
     value: '事假',
-    isEnable: false
+    isEnable: true
   },
   {
     id: '4',

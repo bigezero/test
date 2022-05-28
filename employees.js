@@ -11,7 +11,7 @@ export default {
       value: '非正式'
     }
   ],
-  // 管理形式
+  // 管理形式asdasd 
   subjection: [
     {
       id: '1',
